@@ -1,6 +1,5 @@
 # swayCfg
-
-0x4b46`s Sway configuration
+Sway configuration
 
 ---------------------------------------
 # Dependencies
